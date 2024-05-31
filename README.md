@@ -1,1 +1,1 @@
-Wen Zhong's research group, part of the Data-Driven Life Sciences Program, focuses on leveraging data-driven approaches to advance life sciences research.
+Wen Zhong's research group, part of the Data-Driven Life Sciences Program, focuses on the integration of multi-omics, the interplay between genetics and phenotypes, and the development of data-driven strategies and tools for precision medicine.
